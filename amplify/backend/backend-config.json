@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "amplifyreactappe4598582": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
